@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Alireza-ALZ .<br>👀 I'm a Backend developer at Part Software Group .<br>🌱 I’m currently learning Docker & Kubernetes .<br>💞️ I love Football & Basketball .<br>📫 How to reach me send message in telegram https://t.me/Alireza_ALZ84 or send email to A84Alizadeh@Gmail.com .<br>😄 Pronouns : Aliz .
+👋 Hi, I’m @Alireza-ALZ .<br>👀 A Backend Developer at Part Software Group .<br>🌱 I’m currently learning Docker & Kubernetes .<br>💞️ I love Football & Basketball .<br>📫 How to reach me send message in telegram https://t.me/Alireza_ALZ84 or send email to A84Alizadeh@Gmail.com .<br>😄 Pronouns : Aliz .
 
 
 ## 🌐 Socials:
